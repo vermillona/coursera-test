@@ -1,0 +1,26 @@
+body {
+	background-color: antiquewhite;
+}
+
+h1 {
+	color: purple;
+	font-weight: bold;
+	font-size: 40px;
+	}	
+h3 {
+	color: purple;
+	font-weight: bold;
+	font-size: 30px;
+	}	
+
+ol {
+	color: yellow;
+	font-size: 20px;
+	font-style: italic;
+	background-color: green;
+	width: 300px;
+	height: 100px;
+	border: 3px;
+	}
+				
+
